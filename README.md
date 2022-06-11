@@ -34,3 +34,9 @@ Reputational damage is the realisation of any source of reputation risk facing a
 
 Sources: [guardian](https://www.theguardian.com/business/2019/nov/19/tsb-it-meltdown-report-computer-failure-accounts), [panorama consulting](
 https://www.panorama-consulting.com/tsb-software-failure/#:~:text=In%202018%2C%20the%20UK%E2%80%99s%20Trustee%20Savings%20Bank%20%28TSB%29,outsourcing%20all%20its%20banking%20system%20operations%20to%20IBM.)
+
+
+## Shareprice
+
+[Sabadell share price](https://finance.yahoo.com/quote/SAB.MC/history?period1=946857600&period2=1654905600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+
