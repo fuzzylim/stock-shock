@@ -12,4 +12,5 @@
    1.  Read https://riskandinsurance.com/putting-a-price-on-reputational-damage/
    2.  Read https://www.gtreview.com/news/global/share-price-and-reputational-damage-banks-count-cost-of-aml-failings/
 10. Added learnings
-11. Research vc/subsidary reputation risks to corporates
+11. Investigate events and shareprice at the time
+12. todo Research vc/subsidary reputation risks to corporates
