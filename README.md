@@ -2,7 +2,7 @@
 
 ## Overview
 
-I am always curious about risks - I've found staring at them ultimately relaxing.  This morning I wanted to reseach reputational damage impact on share price.
+I am always curious about risks - I've found staring at them, understanding them a great input to prioritisation.  This morning I wanted to reseach reputational damage impact on share price.
 
 The first thing I did was create this file that you are reading, the second was to create a 2 more files to capture my [steps](method.md) and [learnings](learnings.md).
 
