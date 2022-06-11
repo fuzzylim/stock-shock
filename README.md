@@ -38,5 +38,10 @@ https://www.panorama-consulting.com/tsb-software-failure/#:~:text=In%202018%2C%2
 
 ## Shareprice
 
-[Sabadell share price](https://finance.yahoo.com/quote/SAB.MC/history?period1=946857600&period2=1654905600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+Sabadell, which bought TSB in 2015, booked an extraordinary charge of 203 million euros for the outage, including compensation for cases of alleged fraud during the migration and 92.4 million euros for future customer claims.
 
+[Sabadell share price on yahoo finance](https://finance.yahoo.com/quote/SAB.MC/history?period1=946857600&period2=1654905600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+
+![Impact on Sabadell share price](data/shareprice.png)
+
+[Sabadell shares fell around 6 percent to 1.34 euros on the Madrid stock exchange by 0830 GMT after it reported a loss of 138.7 million euros for the second quarter.](https://www.reuters.com/article/banco-sabadell-results-idUSL5N1UN0JK)
